@@ -3,7 +3,7 @@ A python script for searching and pretty-printing info about audio streams on a 
 ## Warning: pyaudiostream works with python3 only (Tested with python 3.8.0 on Arch Linux)
 
 # Usage
-pyaudiostream is totally automated, so just call it with ```python pyaudiostream.py``` (or ```python3 pyaudiostream.py``` if you're using an older system), a list of audio streams will be printed (if any).
+pyaudiostream is totally automated, so just call it with ```python pyaudiostream.py``` (or ```python3 pyaudiostream.py``` if you're using an older system) and a list of audio streams will be printed (if any).
 
 # Example
 ```python pyaudiostream.py```
